@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello,git----first,master||test
->>>>>>> test
 hello,git----second,test
 hello,git----third
